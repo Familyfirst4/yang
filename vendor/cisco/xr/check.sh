@@ -22,7 +22,7 @@
 platform_dir="vendor/cisco/xr"
 
 # NOTE: please just have the directories you are checking here
-to_check="711 712 713 721 722 731 732 733 734 741 742 751 752 761"
+to_check="713 722 736 742 7551 763 7721 7822 7921 7102 7112 2412 2422 2431 2441"
 
 debug=0
 
